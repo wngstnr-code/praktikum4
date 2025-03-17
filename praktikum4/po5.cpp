@@ -1,0 +1,1 @@
+//Menyajikan informasi Data mahasiswa dengan menggunakan Union, dimana seluruh  alokasi memori untuk setiap elemen akan sama dan ukuran dari variabel union akan  diambil hanya dari ukuran terbesar seluruh elemen. Kemudian, penggunaan Union berarti  setiap penyimpanan data di setiap elemen akan saling mempengaruhi satu sama lain.
